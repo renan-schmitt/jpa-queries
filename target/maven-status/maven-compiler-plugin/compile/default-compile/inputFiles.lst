@@ -1,0 +1,7 @@
+/Users/renanschmitt/git/jpa-queries/src/main/java/br/com/renanschmitt/medium/jpa_queries/JpaQueriesApplication.java
+/Users/renanschmitt/git/jpa-queries/src/main/java/br/com/renanschmitt/medium/jpa_queries/entities/Address.java
+/Users/renanschmitt/git/jpa-queries/src/main/java/br/com/renanschmitt/medium/jpa_queries/entities/Country.java
+/Users/renanschmitt/git/jpa-queries/src/main/java/br/com/renanschmitt/medium/jpa_queries/entities/MaritalStatus.java
+/Users/renanschmitt/git/jpa-queries/src/main/java/br/com/renanschmitt/medium/jpa_queries/entities/Person.java
+/Users/renanschmitt/git/jpa-queries/src/main/java/br/com/renanschmitt/medium/jpa_queries/repositories/PersonRepository.java
+/Users/renanschmitt/git/jpa-queries/src/main/java/br/com/renanschmitt/medium/jpa_queries/service/Runner.java

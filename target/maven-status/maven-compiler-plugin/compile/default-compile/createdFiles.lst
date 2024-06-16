@@ -1,0 +1,7 @@
+br/com/renanschmitt/medium/jpa_queries/service/Runner.class
+br/com/renanschmitt/medium/jpa_queries/entities/Address.class
+br/com/renanschmitt/medium/jpa_queries/entities/MaritalStatus.class
+br/com/renanschmitt/medium/jpa_queries/JpaQueriesApplication.class
+br/com/renanschmitt/medium/jpa_queries/entities/Person.class
+br/com/renanschmitt/medium/jpa_queries/entities/Country.class
+br/com/renanschmitt/medium/jpa_queries/repositories/PersonRepository.class
